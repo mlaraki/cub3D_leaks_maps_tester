@@ -1,0 +1,29 @@
+{
+  "name": "cub3d_leaks_maps_tester",
+  "version": "1.0.0",
+  "description": "tester for cub3D 2020 subject ",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mlaraki/cub3D_leaks_maps_tester.git"
+  },
+  "keywords": [
+    "cub3D",
+    "tester"
+  ],
+  "author": "mlaraki",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mlaraki/cub3D_leaks_maps_tester/issues"
+  },
+  "homepage": "https://github.com/mlaraki/cub3D_leaks_maps_tester#readme",
+  "dependencies": {
+    "cli-progress": "^3.8.2",
+    "dotenv": "^8.2.0",
+    "figlet": "^1.5.0",
+    "inquirer": "^7.3.3"
+  }
+}

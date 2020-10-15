@@ -1,0 +1,8 @@
+R 1080 720
+NO ./textures/greystone.xpm
+SO ./textures/redbrick.xpm
+EA ./textures/wood.xpm
+WE ./textures/wood.xpm
+S ./textures/barrel.xpm
+C 255,200,160
+F 122,122,122
