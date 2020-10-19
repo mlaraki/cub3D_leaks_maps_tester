@@ -31,7 +31,7 @@ npm start
 ## Disclaimer
 
 This tester is based on the cub3D subject available in the the subject directory.
-Since 42 frequently update them, you should alaways check if it match the current subject.
+Since 42 frequently update them, you should always check if it match the current subject.
 
 ## Screenshots
 
